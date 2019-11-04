@@ -1,5 +1,5 @@
 # Reduce-Methods
-Various uses of reduce
+Various uses of .reduce()
 
 __Important note:__
 
